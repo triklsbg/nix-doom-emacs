@@ -1,5 +1,9 @@
 # nix-doom-emacs
 
+[![Build Status on master](https://github.com/vlaci/nix-doom-emacs/workflows/Check%20Build/badge.svg?branch=master&event=push)](https://github.com/vlaci/openconnect-sso/actions?query=workflow%3ATests+branch%3Amaster+event%3Apush)
+[![Build Status on develop](https://github.com/vlaci/nix-doom-emacs/workflows/Check%20Build/badge.svg?branch=develop&event=push)](https://github.com/vlaci/openconnect-sso/actions?query=workflow%3ATests+branch%3Amaster+event%3Apush)
+[![Dependency Updater Status](https://github.com/vlaci/nix-doom-emacs/workflows/Update%20Dependencies/badge.svg?branch=master)](https://github.com/vlaci/openconnect-sso/actions?query=workflow%3ATests+branch%3Amaster+event%3Apush)
+
 Nix expression to install and configure
 [doom-emacs](https://github.com/hlissner/doom-emacs).
 
